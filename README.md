@@ -64,7 +64,7 @@ Working hypothesis: the skill descriptions are being treated by the model as doc
 - Scheduled morning briefings via cron + `openclaw message send`
 - Move from local laptop to a small VPS so the agent stays online when my laptop sleeps
 
-## Repo layout
+
 ## Honest reflection
 
 I'd never used OpenClaw before this challenge. First time writing OpenClaw skills, first time pairing with Claude Code on a deadline this tight. The 80/20 of what I learned: getting an agent talking is easy now; getting it to *reliably do things on your behalf* is where the real engineering still lives — registration, tool routing, and model selection all matter and none of them are automatic.
