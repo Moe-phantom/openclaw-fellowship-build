@@ -67,8 +67,8 @@ Working hypothesis: the skill descriptions are being treated by the model as doc
 ## Repo layout
 ## Honest reflection
 
-I'd never used OpenClaw before this challenge. First time using Gemini's API directly, first time writing OpenClaw skills, first time pairing with Claude Code on a deadline this tight. The 80/20 of what I learned: getting an agent talking is easy now; getting it to *reliably do things on your behalf* is where the real engineering still lives — registration, tool routing, and model selection all matter and none of them are automatic.
+I'd never used OpenClaw before this challenge. First time writing OpenClaw skills, first time pairing with Claude Code on a deadline this tight. The 80/20 of what I learned: getting an agent talking is easy now; getting it to *reliably do things on your behalf* is where the real engineering still lives — registration, tool routing, and model selection all matter and none of them are automatic.
 
-I procrastinated and started this challenge late. That's on me. But shipping what works honestly beats not shipping at all, so here we are.
-
-— Mohamed
+It was a tough week in the uni and I had to give limited time to each so I started this challenge late. That's on me. But shipping what works honestly beats not shipping at all, so here we are.
+overally in this last 24 hours I learned countless amount of information.
+- Mohamed Alwathiq
