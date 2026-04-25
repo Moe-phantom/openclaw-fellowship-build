@@ -16,7 +16,7 @@ A personal productivity AI agent deployed locally on Ubuntu 24, accessible from 
 
 ## Demo
 
-📹 Loom walkthrough: [link added after recording]
+📹 Loom walkthrough: https://www.loom.com/share/47ee63341f7d495381cc06bc7503e998
 
 📸 Screenshots: see `/screenshots` folder
 
